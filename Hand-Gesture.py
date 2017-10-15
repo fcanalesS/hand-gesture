@@ -12,7 +12,7 @@ while(cap.isOpened()):
     cv2.rectangle(img, (200, 200), (25, 25), (255, 0, 0), 0) #Region Azul
 
     cv2.rectangle(img, (25, 225), (200, 425), (0, 255, 0), 1) #Region Verde
-
+    #Region Roja por si acaso
     #cv2.rectangle(img, (25, 225), (200, 425), (0, 0, 255), 1) #Region Roja
 
 
